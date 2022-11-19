@@ -34,7 +34,7 @@
 <h2> 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Team ID: PNT2022TMID20748
 </h2>
-<u><b>#Team Members:</b></u> <br>
+<u><b><font-size="20">Team Members:</b></u> </font><br>
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> VISHVAJIT VISWANATH(Team Lead)
 <br>
