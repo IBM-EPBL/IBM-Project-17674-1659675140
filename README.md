@@ -36,15 +36,14 @@
 </h2>
 <u><b>Team Members:</b></u> <br>
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" />
-VISHVAJIT VISWANATH(Team Lead)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> VISHVAJIT VISWANATH(Team Lead)
 <br>
 
-BALAKUMAR C (Team Member) <br>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> BALAKUMAR C (Team Member) <br>
 
-GIRIKISHORE T(Team Member)<br>
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> GIRIKISHORE T(Team Member)<br>
 
-RITHIPSAI  B(Team Member)<br><br>                                                           
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> RITHIPSAI  B(Team Member)<br><br>                                                           
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" /> <b> Youtube Demonstration Link: "https://youtu.be/1kdlR7CjPuU" </b> 
