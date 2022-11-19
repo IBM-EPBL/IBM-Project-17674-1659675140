@@ -36,7 +36,7 @@
 </h2>
 <u><b><font-size="20">Team Members:</b></u> </font><br>
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> VISHVAJIT VISWANATH(Team Lead)
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Student.png" alt="High Voltage" width="25" height="25" /> VISHVAJIT VISWANATH(Team Lead)
 <br>
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People/Man%20Office%20Worker.png" alt="High Voltage" width="25" height="25" /> BALAKUMAR C (Team Member) <br>
